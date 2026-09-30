@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Abu Hossain Immam Shohag 👋
 
-<!--
-**gmkhokababu/gmkhokababu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🔭 I’m currently working on Java, Spring Boot, and Angular projects.
+- 🌱 I’m currently learning German and exploring Cybersecurity & OS concepts.
+- 💬 Ask me about Java, STS4, MySQL, Spring Boot, and Angular.
+- 🛠️ Operating System: Ubuntu
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Java (Java 17), TypeScript, JavaScript, SQL
+- **Frameworks:** Spring Boot, Angular
+- **Database:** MySQL
+- **Tools & IDE:** STS4, Git, GitHub, VS Code
+
+---
+
+### 📊 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmkhokababu&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmkhokababu&layout=compact&theme=dark)
