@@ -10,7 +10,7 @@
 
 ### 🛠️ Tech Stack
 - **Languages:** Java (Java 17), TypeScript, JavaScript, SQL, Dart
-- **Frameworks & Mobile:** Spring Boot, Angular, Flutter, React
+- **Frameworks & Mobile:** Spring Boot, Angular, Flutter, React, Android.
 - **Databases:** MySQL, Oracle DB
 - **Tools & IDEs:** STS4, VS Code, Git, GitHub, Postman
 
