@@ -2,17 +2,17 @@
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on Java, Spring Boot, and Angular projects.
-- 🌱 I’m currently learning German and exploring Cybersecurity & OS concepts.
-- 💬 Ask me about Java, STS4, MySQL, Spring Boot, and Angular.
-- 🛠️ Operating System: Ubuntu
+- 🌱 I’m currently learning spoken languages (German & Spanish), core tech (C, C++, Python, React), and exploring Cybersecurity & OS concepts.
+- 💬 Ask me about Java, STS4, Spring Boot, Angular, and MySQL.
+- 🛠️ Operating Systems: Ubuntu & Windows
 
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Java (Java 17), TypeScript, JavaScript, SQL
-- **Frameworks:** Spring Boot, Angular
-- **Database:** MySQL
-- **Tools & IDE:** STS4, Git, GitHub, VS Code
+- **Languages:** Java (Java 17), TypeScript, JavaScript, SQL, Dart
+- **Frameworks & Mobile:** Spring Boot, Angular, Flutter, React
+- **Databases:** MySQL, Oracle DB
+- **Tools & IDEs:** STS4, VS Code, Git, GitHub, Postman
 
 ---
 
